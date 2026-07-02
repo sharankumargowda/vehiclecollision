@@ -55,7 +55,7 @@ const LandingPage = ({ onGetStarted, onShowAboutLegal, onShowAboutLegalWithView,
           <div className="landing-header">
           <div className="landing-icon">UCASAAPP</div>
             <h1 className="landing-title">
-            Universal Collision Avoidance System Advisory App
+            global Collision Avoidance System Advisory App
             </h1>
             <p className="landing-subtitle">
               Advanced safety system that quickly detects accidents, sends emergency alerts, 
